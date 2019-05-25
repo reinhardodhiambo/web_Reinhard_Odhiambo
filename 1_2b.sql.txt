@@ -1,0 +1,2 @@
+1. Select CarMaker, CarModel, SUM(SalePriceInDollar) as TotalSalePrice from CarSales where DATEDIFF(CURRENT_DATE(), SaleDate) between 0 and 30 group by CarMaker, CarModel;
+2b. Time Complexity is 0(n), Space Complexity is 0(n)
