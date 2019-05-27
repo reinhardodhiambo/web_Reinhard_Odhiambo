@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\wed_Reinhard_odhiambo\\LinkedListsHelpers\\LinkedListsHelpers.csproj": {}
+    "D:\\wed_Reinhard_odhiambo\\UnitTestLinkedList\\UnitTestLinkedList.csproj": {}
   },
   "projects": {
-    "D:\\wed_Reinhard_odhiambo\\LinkedListsHelpers\\LinkedListsHelpers.csproj": {
+    "D:\\wed_Reinhard_odhiambo\\UnitTestLinkedList\\UnitTestLinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\wed_Reinhard_odhiambo\\LinkedListsHelpers\\LinkedListsHelpers.csproj",
-        "projectName": "LinkedListsHelpers",
-        "projectPath": "D:\\wed_Reinhard_odhiambo\\LinkedListsHelpers\\LinkedListsHelpers.csproj",
+        "projectUniqueName": "D:\\wed_Reinhard_odhiambo\\UnitTestLinkedList\\UnitTestLinkedList.csproj",
+        "projectName": "UnitTestLinkedList",
+        "projectPath": "D:\\wed_Reinhard_odhiambo\\UnitTestLinkedList\\UnitTestLinkedList.csproj",
         "packagesPath": "C:\\Users\\reinh\\.nuget\\packages\\",
-        "outputPath": "D:\\wed_Reinhard_odhiambo\\LinkedListsHelpers\\obj\\",
+        "outputPath": "D:\\wed_Reinhard_odhiambo\\UnitTestLinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,6 +41,18 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",

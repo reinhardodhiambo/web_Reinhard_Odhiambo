@@ -3,12 +3,12 @@ using System.Collections.Generic;
 
 namespace LinkedLists
 {
-    public class LinkedListHelpers
+    public static class LinkedListHelpers
     {
-        Node head;
+        private static Node head;
 
         /*Node for the Linked List*/
-        class Node
+        private class Node
         {
             public char count;
             public Node next;
@@ -18,10 +18,10 @@ namespace LinkedLists
             }
         }
 
-        public void deletePlusTwoDuplicates()
+        public  static void deletePlusTwoDuplicates()
         {
             /*Reference to head*/
-            Node current = head;
+             Node current = head;
 
             /* Pointer to store the next  
             pointer of a node to be deleted*/
@@ -78,7 +78,7 @@ namespace LinkedLists
         /* Utility functions */
 
         /* Inserts a new Node at front of the list. */
-        public void push(char new_data)
+        public static void push(char new_data)
         {
             /* 1 & 2: Allocate the Node & 
                     Put in the data*/
@@ -92,15 +92,19 @@ namespace LinkedLists
         }
 
         /* Function to print linked list */
-        void printList()
+        public static string printList()
         {
             Node temp = head;
+            string List = "";
             while (temp != null)
             {
-                Console.Write(temp.count + " ");
+                Console.Write(temp.count + "");
+                List += temp.count;
                 temp = temp.next;
             }
             Console.WriteLine();
+
+            return List;
         }
     }
 }

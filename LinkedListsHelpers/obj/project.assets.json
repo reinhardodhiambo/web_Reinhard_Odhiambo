@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\LinkedListsHelpers\\LinkedListsHelpers.csproj",
+      "projectUniqueName": "D:\\wed_Reinhard_odhiambo\\LinkedListsHelpers\\LinkedListsHelpers.csproj",
       "projectName": "LinkedListsHelpers",
-      "projectPath": "C:\\Projects\\LinkedListsHelpers\\LinkedListsHelpers.csproj",
+      "projectPath": "D:\\wed_Reinhard_odhiambo\\LinkedListsHelpers\\LinkedListsHelpers.csproj",
       "packagesPath": "C:\\Users\\reinh\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\LinkedListsHelpers\\obj\\",
+      "outputPath": "D:\\wed_Reinhard_odhiambo\\LinkedListsHelpers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -6,3 +6,11 @@ C:\Projects\LinkedListsHelpers\obj\Debug\netcoreapp2.2\LinkedListsHelpers.Assemb
 C:\Projects\LinkedListsHelpers\obj\Debug\netcoreapp2.2\LinkedListsHelpers.AssemblyInfo.cs
 C:\Projects\LinkedListsHelpers\obj\Debug\netcoreapp2.2\LinkedListsHelpers.dll
 C:\Projects\LinkedListsHelpers\obj\Debug\netcoreapp2.2\LinkedListsHelpers.pdb
+D:\wed_Reinhard_odhiambo\LinkedListsHelpers\bin\Debug\netcoreapp2.2\LinkedListsHelpers.deps.json
+D:\wed_Reinhard_odhiambo\LinkedListsHelpers\bin\Debug\netcoreapp2.2\LinkedListsHelpers.dll
+D:\wed_Reinhard_odhiambo\LinkedListsHelpers\bin\Debug\netcoreapp2.2\LinkedListsHelpers.pdb
+D:\wed_Reinhard_odhiambo\LinkedListsHelpers\obj\Debug\netcoreapp2.2\LinkedListsHelpers.csproj.CoreCompileInputs.cache
+D:\wed_Reinhard_odhiambo\LinkedListsHelpers\obj\Debug\netcoreapp2.2\LinkedListsHelpers.AssemblyInfoInputs.cache
+D:\wed_Reinhard_odhiambo\LinkedListsHelpers\obj\Debug\netcoreapp2.2\LinkedListsHelpers.AssemblyInfo.cs
+D:\wed_Reinhard_odhiambo\LinkedListsHelpers\obj\Debug\netcoreapp2.2\LinkedListsHelpers.dll
+D:\wed_Reinhard_odhiambo\LinkedListsHelpers\obj\Debug\netcoreapp2.2\LinkedListsHelpers.pdb
